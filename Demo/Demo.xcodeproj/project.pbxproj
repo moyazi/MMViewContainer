@@ -16,6 +16,7 @@
 		2CB44A8C1C5B5C25004FE1D2 /* MMViewContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CB44A8B1C5B5C25004FE1D2 /* MMViewContainer.m */; };
 		2CB44A8F1C5B612E004FE1D2 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CB44A8E1C5B612E004FE1D2 /* RootViewController.m */; };
 		2CB44A921C5B62B8004FE1D2 /* ChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CB44A911C5B62B8004FE1D2 /* ChildViewController.m */; };
+		6276C5661C5E0065003572B1 /* demo-screenshot1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6276C5651C5E0065003572B1 /* demo-screenshot1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2CB44A8E1C5B612E004FE1D2 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		2CB44A901C5B62B8004FE1D2 /* ChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildViewController.h; sourceTree = "<group>"; };
 		2CB44A911C5B62B8004FE1D2 /* ChildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildViewController.m; sourceTree = "<group>"; };
+		6276C5651C5E0065003572B1 /* demo-screenshot1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "demo-screenshot1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				2CB44A6A1C5B5866004FE1D2 /* Assets.xcassets */,
 				2CB44A6C1C5B5866004FE1D2 /* LaunchScreen.storyboard */,
 				2CB44A6F1C5B5866004FE1D2 /* Info.plist */,
+				6276C5651C5E0065003572B1 /* demo-screenshot1.jpg */,
 				2CB44A5E1C5B5866004FE1D2 /* Supporting Files */,
 			);
 			path = Demo;
@@ -211,6 +214,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6276C5661C5E0065003572B1 /* demo-screenshot1.jpg in Resources */,
 				2CB44A6E1C5B5866004FE1D2 /* LaunchScreen.storyboard in Resources */,
 				2CB44A6B1C5B5866004FE1D2 /* Assets.xcassets in Resources */,
 			);
